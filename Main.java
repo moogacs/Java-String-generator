@@ -1,6 +1,6 @@
 /*
  * Author: Mohamed Badawi
- * Delivery: prof. Renz HAW-Hamburg
+ * Delivery
  * */
 import java.util.*;
 public class Main {
